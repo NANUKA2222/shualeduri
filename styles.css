@@ -34,6 +34,7 @@ letter-spacing: 0px;
 text-align: center;
 color: rgba(22, 37, 66, 1);
 text-transform: uppercase;
+    white-spacing: nowrap;
 }
 h1{
     width: 327px;
@@ -81,6 +82,7 @@ main button{
    text-align: center;
    text-transform: uppercase;
    margin-left: 19px;
+    white-spacing: nowrap;
 
 
     
